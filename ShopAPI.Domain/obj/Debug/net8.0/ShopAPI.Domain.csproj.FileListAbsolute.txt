@@ -1,0 +1,14 @@
+D:\TEST\ShopAPI.Domain\bin\Debug\net8.0\ShopAPI.Domain.deps.json
+D:\TEST\ShopAPI.Domain\bin\Debug\net8.0\ShopAPI.Domain.runtimeconfig.json
+D:\TEST\ShopAPI.Domain\bin\Debug\net8.0\ShopAPI.Domain.dll
+D:\TEST\ShopAPI.Domain\bin\Debug\net8.0\ShopAPI.Domain.pdb
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.csproj.AssemblyReference.cache
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.AssemblyInfoInputs.cache
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.AssemblyInfo.cs
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.csproj.CoreCompileInputs.cache
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.dll
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\refint\ShopAPI.Domain.dll
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.pdb
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ShopAPI.Domain.genruntimeconfig.cache
+D:\TEST\ShopAPI.Domain\obj\Debug\net8.0\ref\ShopAPI.Domain.dll
